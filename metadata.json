@@ -1,0 +1,6 @@
+{
+  "name": "PayPulse BD",
+  "description": "Automated SMS Payment Verification and HMAC-SHA256 Webhook Sync for bKash, Nagad, and Rocket mobile wallets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

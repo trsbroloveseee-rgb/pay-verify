@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PayPulse BD</string>
+    <string name="app_subtitle">SMS Payment Verification &amp; Webhook Sync</string>
+    <string name="nav_dashboard">Queue</string>
+    <string name="nav_simulator">Simulator</string>
+    <string name="nav_webhook">Webhook</string>
+    <string name="nav_backend">Backend</string>
+    <string name="service_notification_title">Payment Listener Active</string>
+    <string name="service_notification_text">Listening 24/7 for bKash, Nagad &amp; Rocket SMS</string>
+    <string name="status_pending">UNSYNCED</string>
+    <string name="status_synced">SYNCED</string>
+    <string name="status_failed">FAILED</string>
+    <string name="btn_sync_now">Sync Queue Now</string>
+    <string name="btn_ignore_battery">Ignore Battery Optimization</string>
+    <string name="btn_start_service">Start 24/7 Listener</string>
+    <string name="btn_stop_service">Stop Listener</string>
+    <string name="empty_queue_title">No Payment SMS Captured Yet</string>
+    <string name="empty_queue_subtitle">Incoming bKash, Nagad, Rocket (16216) or Test Number SMS will automatically appear here and sync to your webhook.</string>
+</resources>
